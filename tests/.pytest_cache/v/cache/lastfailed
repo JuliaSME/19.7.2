@@ -1,0 +1,5 @@
+{
+  "test_pet_friends.py": true,
+  "test_pet_friends.py::test_error_400_for_set_photo_on_not_existing_pet": true,
+  "test_pet_friends.py::test_add_new_pet_without_photo": true
+}
